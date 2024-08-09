@@ -1,0 +1,12 @@
+Router1;192.168.1.1;66:77:88:99:AA:BB;true;Sala 01;TP-Link Archer C7;DD-WRT;600;
+Router2;192.168.2.1;00:1A:2B:3C:4D:5E;true;Sala 03;ASUS RT-AC68U;OpenWrt;800;
+Router3;192.168.3.1;00:66:5H:9I:6G:AB;true;Sala 04;Router TP-Link TL-WR820N V2 220V;Tomato;500;
+Router4;192.168.4.1;00:66:5H:9I:6G:AB;false;Sala 01;TP-Link Archer C7;ASUSWRT-Merlin;300;
+Router5;192.168.5.1;00:11:22:33:44:55;false;Sala 04;ASUS RT-AC68U;Gargoyle;800;
+Router6;192.168.6.1;00:1A:2B:3C:4D:5E;true;sala01;TP-Link Archer C7;DD-WRT;300;
+Router7;192.168.7.1;00:1B:3C:4D:5E:6F;false;sala02;Netgear Nighthawk X6;OpenWrt;450;
+Router8;192.168.8.1;00:1C:2D:3E:4F:5G;true;sala03;Asus RT-AC68U;Tomato;600;
+Router9;192.168.9.1;00:1D:2E:3F:4G:5H;false;sala04;Linksys WRT3200ACM;ASUSWRT-Merlin;750;
+Router10;192.168.10.1;00:1E:2F:3G:4H:5I;true;sala01;D-Link DIR-890L;Gargoyle;900;
+Router11;192.168.11.1;00:1F:2G:3H:4I:5J;false;sala02;Google Nest Wifi;DD-WRT;1200;
+Router12;192.168.12.1;00:2A:3B:4C:5D:6E;true;sala03;Ubiquiti AmpliFi HD;OpenWrt;1500;
